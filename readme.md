@@ -1,3 +1,12 @@
+# Archived
+
+This fork is archived.
+
+The NVIDIA-related changes from this repository were merged upstream and are now officially maintained in  
+[`henrygd/beszel-agent-nvidia`](https://hub.docker.com/r/henrygd/beszel-agent-nvidia).
+
+This fork is kept for historical reference only.
+
 # Beszel
 
 Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions.
